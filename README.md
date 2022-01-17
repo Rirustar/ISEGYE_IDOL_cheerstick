@@ -1,6 +1,6 @@
 # ISEGYE_IDOL_cheerstick
 
-![Main_image](./Image_file/main_Image.png)
+![Main_image](Image_file/main_Image.png)
 
 ISEGYE_IDOL Fanmade Cheerstick.
 
